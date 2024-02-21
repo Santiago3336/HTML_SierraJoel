@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body {
+    background-color: lightblue;
+}
+
+#ola{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    border: 5px;
+    padding: 50;
+    border-color: blue;
+}
+
