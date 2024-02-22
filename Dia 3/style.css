@@ -23,3 +23,63 @@
     flex-direction: column;
     align-items: center;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+  /* Estilos para las celdas de encabezado */
+th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+  
+  /* Estilos para las celdas de datos */
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+  
+  /* Estilos para las filas impares (opcional) */
+  tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+td.guid{
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.phone{
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.address{
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.about {
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.registered{
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.tags{
+    max-width: 50%; 
+    white-space: nowrap;
+}
+
+td.friends{
+    max-width: 50%; 
+    white-space: nowrap;
+}
