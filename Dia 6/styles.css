@@ -1,0 +1,15 @@
+body{
+    background: white;
+
+}
+
+.derecha{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #212020;
+    float: right;
+    height: 800px;
+    border-radius: 5px;
+}
