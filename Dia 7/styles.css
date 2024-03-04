@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html{
+    background: #1e1d2b;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.first{
+    padding: 10px;
+    color: #ff702a;
+    letter-spacing: 2px;
+}
+
+#orang1{
+    padding-left: 65px;
+    padding-top: 45px;
+    font-size: 35px;
+}
+
+#orang2{
+    padding-left: 180px;
+    padding-top: 40px;
+    font-size: 120px;
+    margin-bottom: 0px;
+}
+
+#txt1, #txt2{
+    color: #ffffff;
+    padding-left: 180px;
+    font-size: 40px;
+    margin: 0px;
+}
+
+#orang3{
+    color: #ffffff;
+    font-size: 40px;
+    background-color: #ff702a;
+    position: absolute;
+    margin: 40px;
+    left: 160px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.first2{
+    display: flex;
+
+    position: absolute;
+    right: 50px;
+    bottom: 870px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#c1f1, #c1f2, #c1f3, #c1f4, #c1f5{
+    
+    padding-right: 30px;
+
+}
+
+img{
+    position: absolute;
+    height: 480px;
+    right: 200px;
+    bottom: 230px;
+}
+
+.second{
+    position: relative;
+    top: 1100px;
+    right: 930px;
+}
+
+.sectxt{
+    color: #ffffff;
+    position: relative;
+    top: 400px;
+    left: 900px;
+    font-size: 40px;
+}
+
+#about{
+    font-size: 23px;
+    color: #ff702a;
+    margin: 0px;
+    padding: 0px;
+}
+
+#c2t1, #c2t2, #c3t2, #c4t2{
+    margin: 0px;
+    padding: 0px;
+}
