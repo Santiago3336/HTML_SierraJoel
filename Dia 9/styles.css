@@ -3,9 +3,13 @@ html{
 }
 
 body{
-    display: grid;
+    margin: 0%;
 }
 
+.firstContainer{
+    display: grid;
+    
+}
 
 .firstImage{
     float: left;
