@@ -29,7 +29,7 @@ body {
     position: absolute;
     top: 10%;
     right: 45%;
-    animation: sunFade 5s linear forwards;
+    animation: sunFade 8s linear forwards;
     opacity: 0;
 }
 
@@ -67,7 +67,7 @@ body {
         left: 100%;
     }
     50% {
-        left: 50%;
+        left: 30%;
     }
     100% {
         left: -100%;
@@ -78,7 +78,7 @@ body {
     width: 20vw;
     position: absolute;
     top: 20vh;
-    left: 50%;
+    left: 30%;
     animation: rainFall 5s linear 2.5s forwards;
     opacity: 0;
 }
@@ -101,8 +101,8 @@ body {
     width: 5vw;
     position: absolute;
     bottom: -100%;
-    right: 50%;
-    animation: flowerMove 5s linear 7.5s forwards;
+    right: 60%;
+    animation: flowerMove 4s linear 4s forwards;
 }
 
 #flower {
