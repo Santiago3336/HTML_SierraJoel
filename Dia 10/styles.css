@@ -2,6 +2,8 @@ html{
     background-image: url(sources/landscape.jpg);
     width: 100vw;
     height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 101% 100%;
 }
 
 
@@ -32,6 +34,7 @@ body {
     animation: sunFade 8s linear forwards;
     opacity: 0;
 }
+
 
 #sun {
     width: 100%;
