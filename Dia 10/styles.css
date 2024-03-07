@@ -3,4 +3,21 @@ html{
 }
 
 
+/* div{
+    animation: cloudMoving  timing-function delay iteration-count direction fill-mode;
+} */
 
+body{
+    position: absolute;
+}
+
+#cloud{
+    width: 20%;
+    float: right;
+}
+
+#house{
+    width: 30%;
+    float: right;
+
+}
